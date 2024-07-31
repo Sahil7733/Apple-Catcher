@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Sahil7733/Apple-Catcher.git",
+  "homepage": "https://Sahil7733.github.io/Apple-Catcher",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
