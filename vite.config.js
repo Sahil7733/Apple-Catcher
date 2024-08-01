@@ -1,5 +1,9 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/assets/', // Use your GitHub repository name
+  base: '/Apple-Catcher/', // Set the correct base path
+  build: {
+    outDir: 'dist',
+  },
+  // other configurations...
 });
